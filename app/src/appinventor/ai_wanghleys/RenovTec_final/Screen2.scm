@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["ai2.appinventor.mit.edu"],"YaVersion":"213","Source":"Form","Properties":{"$Name":"Screen2","$Type":"Form","$Version":"30","AccentColor":"&HFF3DBD5A","AlignHorizontal":"3","AppName":"RenovTec_final","BackgroundColor":"&HFFCCCCCC","ScreenOrientation":"portrait","Title":"Screen2","TitleVisible":"False","Uuid":"0","$Components":[{"$Name":"HorizontalArrangement1","$Type":"HorizontalArrangement","$Version":"4","Uuid":"-314781098"},{"$Name":"WebViewer1","$Type":"WebViewer","$Version":"10","Height":"-1040","Uuid":"-1873585441"},{"$Name":"Image1","$Type":"Image","$Version":"6","Height":"50","Picture":"Group50.png","Uuid":"-1876610916"},{"$Name":"Image2","$Type":"Image","$Version":"6","Height":"-1040","Picture":"Group58.png","Uuid":"-2068217187"},{"$Name":"VerticalArrangement3","$Type":"VerticalArrangement","$Version":"4","Uuid":"1993337269"},{"$Name":"Button1","$Type":"Button","$Version":"7","Image":"botton.png","Uuid":"-964268180"}]}}
+|#

@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["ai2.appinventor.mit.edu"],"YaVersion":"213","Source":"Form","Properties":{"$Name":"Screen1","$Type":"Form","$Version":"30","AccentColor":"&HFF3DBD5A","AlignHorizontal":"3","AlignVertical":"2","AppName":"MyApp","BackgroundColor":"&HFF000000","BackgroundImage":"Splash.png","ScreenOrientation":"portrait","ShowStatusBar":"False","Title":"Screen1","TitleVisible":"False","Uuid":"0","$Components":[{"$Name":"WebViewer1","$Type":"WebViewer","$Version":"10","Height":"-2","Width":"-2","Uuid":"2094480836","Visible":"False"},{"$Name":"Clock1","$Type":"Clock","$Version":"4","Uuid":"1723587842"}]}}
+|#
